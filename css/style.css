@@ -1,0 +1,60 @@
+body {
+    background:url(images/memphis-colorful.png);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-default .navbar-brand {
+    background-color:#4aaaa5;
+    color:white;
+}
+
+#icon1 {
+    background-image: url('images/if_github_253591.png');
+    
+    color:transparent;
+    display:inline;
+}
+
+#icon2 {
+    background-image: url('images/if_linkedin_circle_color_107178.png');
+    
+    color:transparent;
+    display:inline;
+}
+
+#icon3 {
+    background-image: url('images/if_gmail_1220367.png');
+    
+    color:transparent;
+    display:inline;
+}
+
+.panel-body {
+    background-color:white;
+    color:#4aaaa5;
+    font-size:20px;
+}
+
+.panel-primary {
+    background-color:#4aaaa5;
+    color:white;
+    text-align:center;
+    font-size:16px;
+}
+
+.bPara {
+    font-size:20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow:auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.images1 {
+    height:100px;
+    width:100px;
+}
+
